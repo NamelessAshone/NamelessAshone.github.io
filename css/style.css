@@ -43,7 +43,7 @@ p {
   padding: 0;
 }
 strong {
-  color: #ff8000;
+  color: #0039a5;
   font-weight: 700;
 }
 .content {
@@ -368,7 +368,7 @@ article .entry .caption:before {
 article .entry code,
 article .entry pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  color: #333;
+  color: #4488c0;
   font-size: 0.8em;
   overflow-x: scroll;
 }
