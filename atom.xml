@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>(code (for fun) (util death))</title>
+  
+  
+  <link href="https://namelessashone.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://namelessashone.github.io/"/>
+  <updated>2021-04-05T16:03:30.188Z</updated>
+  <id>https://namelessashone.github.io/</id>
+  
+  <author>
+    <name>ShuXin Shu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>跟踪进程执行过程</title>
+    <link href="https://namelessashone.github.io/2021/04/06/%E4%BD%BF%E7%94%A8ltrace%E8%B7%9F%E8%B8%AA%E8%BF%9B%E7%A8%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/"/>
+    <id>https://namelessashone.github.io/2021/04/06/%E4%BD%BF%E7%94%A8ltrace%E8%B7%9F%E8%B8%AA%E8%BF%9B%E7%A8%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/</id>
+    <published>2021-04-05T16:01:09.000Z</published>
+    <updated>2021-04-05T16:03:30.188Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;利用ltrace跟踪进程过程&quot;&gt;&lt;a href=&quot;#利用ltrace跟踪进程过程&quot; class=&quot;headerlink&quot; title=&quot;利用ltrace跟踪进程过程&quot;&gt;&lt;/a&gt;利用ltrace跟踪进程过程&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
