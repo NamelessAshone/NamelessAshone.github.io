@@ -368,12 +368,15 @@ article .entry .caption:before {
 article .entry code,
 article .entry pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  color: #4488c0;
+  color: #006dd5;
   font-size: 0.8em;
   overflow-x: scroll;
 }
 article .entry code {
   font-size: 0.8em;
+  border: 3px;
+  border-radius: 3px;
+  background: #7bbff3;
 }
 article .entry pre {
   padding: 10px 30px;
