@@ -6,7 +6,7 @@
   <link href="https://blog.codesouls.top/atom.xml" rel="self"/>
   
   <link href="https://blog.codesouls.top/"/>
-  <updated>2021-06-06T10:00:37.534Z</updated>
+  <updated>2021-06-06T13:19:13.695Z</updated>
   <id>https://blog.codesouls.top/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://blog.codesouls.top/2021/06/01/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E6%88%90API%E6%96%87%E6%A1%A3/"/>
     <id>https://blog.codesouls.top/2021/06/01/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E6%88%90API%E6%96%87%E6%A1%A3/</id>
     <published>2021-06-01T04:00:00.000Z</published>
-    <updated>2021-06-06T10:00:37.534Z</updated>
+    <updated>2021-06-06T13:19:13.695Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).&lt;br&gt;于是Google了一番，寻找到一个不错的工具&lt;code&gt;mkdocs&lt;/code&gt;,</summary>
+    <summary type="html">&lt;h1 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h1&gt;&lt;p&gt;小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP</summary>
         
       
     
