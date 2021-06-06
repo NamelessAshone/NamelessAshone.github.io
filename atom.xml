@@ -6,7 +6,7 @@
   <link href="https://blog.codesouls.top/atom.xml" rel="self"/>
   
   <link href="https://blog.codesouls.top/"/>
-  <updated>2021-06-06T09:40:29.260Z</updated>
+  <updated>2021-06-06T10:00:37.534Z</updated>
   <id>https://blog.codesouls.top/</id>
   
   <author>
@@ -17,23 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://blog.codesouls.top/2021/05/26/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E6%88%90API%E6%96%87%E6%A1%A3/"/>
-    <id>https://blog.codesouls.top/2021/05/26/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E6%88%90API%E6%96%87%E6%A1%A3/</id>
-    <published>2021-05-26T03:08:53.161Z</published>
-    <updated>2021-06-06T09:40:29.260Z</updated>
+    <title>使用mkdocs生成现代化的API文档</title>
+    <link href="https://blog.codesouls.top/2021/06/01/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E6%88%90API%E6%96%87%E6%A1%A3/"/>
+    <id>https://blog.codesouls.top/2021/06/01/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E6%88%90API%E6%96%87%E6%A1%A3/</id>
+    <published>2021-06-01T04:00:00.000Z</published>
+    <updated>2021-06-06T10:00:37.534Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;1-安装mkdocs和material主题&quot;&gt;&lt;a href=&quot;#1-安装mkdocs和material主题&quot; class=&quot;headerlink&quot; title=&quot;1. 安装mkdocs和material主题&quot;&gt;&lt;/a&gt;1.</summary>
+    <summary type="html">&lt;p&gt;小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).&lt;br&gt;于是Google了一番，寻找到一个不错的工具&lt;code&gt;mkdocs&lt;/code&gt;,</summary>
         
       
     
     
     
+    
+    <category term="工具" scheme="https://blog.codesouls.top/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -42,7 +44,7 @@
     <link href="https://blog.codesouls.top/2021/04/06/%E4%BD%BF%E7%94%A8ltrace%E8%B7%9F%E8%B8%AA%E8%BF%9B%E7%A8%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/"/>
     <id>https://blog.codesouls.top/2021/04/06/%E4%BD%BF%E7%94%A8ltrace%E8%B7%9F%E8%B8%AA%E8%BF%9B%E7%A8%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/</id>
     <published>2021-04-05T16:01:09.000Z</published>
-    <updated>2021-04-05T16:03:30.188Z</updated>
+    <updated>2021-06-06T09:50:18.727Z</updated>
     
     
       
@@ -55,6 +57,8 @@
     
     
     
+    
+    <category term="工具" scheme="https://blog.codesouls.top/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
