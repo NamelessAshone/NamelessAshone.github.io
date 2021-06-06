@@ -6,7 +6,7 @@
   <link href="https://blog.codesouls.top/atom.xml" rel="self"/>
   
   <link href="https://blog.codesouls.top/"/>
-  <updated>2021-06-06T13:19:13.695Z</updated>
+  <updated>2021-06-06T13:31:44.139Z</updated>
   <id>https://blog.codesouls.top/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>使用mkdocs生成现代化的API文档</title>
-    <link href="https://blog.codesouls.top/2021/06/01/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E6%88%90API%E6%96%87%E6%A1%A3/"/>
-    <id>https://blog.codesouls.top/2021/06/01/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E6%88%90API%E6%96%87%E6%A1%A3/</id>
-    <published>2021-06-01T04:00:00.000Z</published>
-    <updated>2021-06-06T13:19:13.695Z</updated>
+    <title>使用mkdocs生产漂亮的API手册网站</title>
+    <link href="https://blog.codesouls.top/2021/06/06/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E4%BA%A7%E6%BC%82%E4%BA%AE%E7%9A%84API%E6%89%8B%E5%86%8C%E7%BD%91%E7%AB%99/"/>
+    <id>https://blog.codesouls.top/2021/06/06/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E4%BA%A7%E6%BC%82%E4%BA%AE%E7%9A%84API%E6%89%8B%E5%86%8C%E7%BD%91%E7%AB%99/</id>
+    <published>2021-06-06T13:31:15.000Z</published>
+    <updated>2021-06-06T13:31:44.139Z</updated>
     
     
       
@@ -34,8 +34,6 @@
     
     
     
-    
-    <category term="工具" scheme="https://blog.codesouls.top/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
