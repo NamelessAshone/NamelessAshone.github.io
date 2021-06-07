@@ -10,20 +10,21 @@
     <meta name="author" content="ShuXin Shu">
   
   
-    <meta name="description" content="背景小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).于是Google了一番，寻找到一个不错的工具mkdocs, 采用里目前比较流行的通过markdown文件生成静态网站的技术, 同时很易用, 主题和扩展较多(内心OS: 好看就完事了).基本可以满足我对文档类型网站的需求, 闲话少说, let’s do it.
+    <meta name="description" content="背景小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).于是Google了一番，寻找到一个不错的工具mkdocs, 采用了目前比较流行的通过markdown文件生成静态网站的技术, 同时很易用, 主题和扩展较多(内心OS: 好看就完事了).基本可以满足我对文档类型网站的需求, 闲话少说, let’s do it.
 1">
   
-  <meta name="description" content="背景小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).于是Google了一番，寻找到一个不错的工具mkdocs, 采用里目前比较流行的通过markdown文件生成静态网站的技术, 同时很易用, 主题和扩展较多(内心OS: 好看就完事了).基本可以满足我对文档类型网站的需求, 闲话少说, let’s do it. 1">
+  <meta name="description" content="背景小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).于是Google了一番，寻找到一个不错的工具mkdocs, 采用了目前比较流行的通过markdown文件生成静态网站的技术, 同时很易用, 主题和扩展较多(内心OS: 好看就完事了).基本可以满足我对文档类型网站的需求, 闲话少说, let’s do it. 1">
 <meta property="og:type" content="article">
 <meta property="og:title" content="使用mkdocs生产漂亮的API手册网站">
 <meta property="og:url" content="https://blog.codesouls.top/2021/06/06/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E4%BA%A7%E6%BC%82%E4%BA%AE%E7%9A%84API%E6%89%8B%E5%86%8C%E7%BD%91%E7%AB%99/index.html">
 <meta property="og:site_name" content="(code (for fun) (util death))">
-<meta property="og:description" content="背景小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).于是Google了一番，寻找到一个不错的工具mkdocs, 采用里目前比较流行的通过markdown文件生成静态网站的技术, 同时很易用, 主题和扩展较多(内心OS: 好看就完事了).基本可以满足我对文档类型网站的需求, 闲话少说, let’s do it. 1">
+<meta property="og:description" content="背景小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).于是Google了一番，寻找到一个不错的工具mkdocs, 采用了目前比较流行的通过markdown文件生成静态网站的技术, 同时很易用, 主题和扩展较多(内心OS: 好看就完事了).基本可以满足我对文档类型网站的需求, 闲话少说, let’s do it. 1">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://blog.codesouls.top/2021/06/06/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E4%BA%A7%E6%BC%82%E4%BA%AE%E7%9A%84API%E6%89%8B%E5%86%8C%E7%BD%91%E7%AB%99/doc.png">
 <meta property="article:published_time" content="2021-06-06T13:31:15.000Z">
-<meta property="article:modified_time" content="2021-06-06T13:33:32.886Z">
+<meta property="article:modified_time" content="2021-06-07T02:31:54.694Z">
 <meta property="article:author" content="ShuXin Shu">
+<meta property="article:tag" content="工具">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://blog.codesouls.top/2021/06/06/%E4%BD%BF%E7%94%A8mkdocs%E7%94%9F%E4%BA%A7%E6%BC%82%E4%BA%AE%E7%9A%84API%E6%89%8B%E5%86%8C%E7%BD%91%E7%AB%99/doc.png">
   
@@ -102,7 +103,7 @@
   
   <div class="entry">
     
-      <h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).<br>于是Google了一番，寻找到一个不错的工具<code>mkdocs</code>, 采用里目前比较流行的通过markdown文件生成静态网站的技术, 同时很易用, 主题和扩展较多(内心OS: 好看就完事了).<br>基本可以满足我对文档类型网站的需求, 闲话少说, let’s do it.</p>
+      <h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>小组里使用dokuWiki作为文档工具, 稳定但UI并不好看, 同时缺乏搜索功能(内心OS: no more PHP please).<br>于是Google了一番，寻找到一个不错的工具<code>mkdocs</code>, 采用了目前比较流行的通过markdown文件生成静态网站的技术, 同时很易用, 主题和扩展较多(内心OS: 好看就完事了).<br>基本可以满足我对文档类型网站的需求, 闲话少说, let’s do it.</p>
 <h1 id="1-安装mkdocs和material主题"><a href="#1-安装mkdocs和material主题" class="headerlink" title="1. 安装mkdocs和material主题"></a>1. 安装mkdocs和material主题</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ pip install mkdocs mkdocs-material</span><br></pre></td></tr></table></figure>
 
 <blockquote>
@@ -127,6 +128,10 @@
     
       
       
+  <div class="tags">
+    <a class="tags-none-link" href="/tags/%E5%B7%A5%E5%85%B7/" rel="tag">工具</a>
+  </div>
+
     
     <hr>
     <a rel="license noopener" target="_blank" href="http://creativecommons.org/licenses/by/4.0/">
