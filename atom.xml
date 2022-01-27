@@ -6,7 +6,7 @@
   <link href="https://blog.codesouls.top/atom.xml" rel="self"/>
   
   <link href="https://blog.codesouls.top/"/>
-  <updated>2021-11-04T07:07:54.394Z</updated>
+  <updated>2022-01-19T09:10:17.246Z</updated>
   <id>https://blog.codesouls.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://blog.codesouls.top/2022/01/27/%E7%8E%B0%E4%BB%A3C++%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.tuple%E7%AF%87/"/>
+    <id>https://blog.codesouls.top/2022/01/27/%E7%8E%B0%E4%BB%A3C++%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.tuple%E7%AF%87/</id>
+    <published>2022-01-27T02:01:23.404Z</published>
+    <updated>2022-01-19T09:10:17.246Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;现代C-学习笔记-tuple篇&quot;&gt;&lt;a href=&quot;#现代C-学习笔记-tuple篇&quot; class=&quot;headerlink&quot; title=&quot;现代C++学习笔记: tuple篇&quot;&gt;&lt;/a&gt;现代C++学习笔记: tuple篇&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>关于C变量存储位置</title>
