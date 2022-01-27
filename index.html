@@ -167,15 +167,15 @@
   <header>
     
       <div class="icon"></div>
-      <a href="/2021/11/03/关于C变量存储位置/">
-  <time datetime="2021-11-03T13:10:56.383Z">
-    2021-11-03
+      <a href="/2021/11/02/关于C变量存储位置/">
+  <time datetime="2021-11-02T14:46:00.000Z">
+    2021-11-02
   </time>
 </a>
     
     
   
-    <h1 class="title"><a href="/2021/11/03/关于C变量存储位置/">关于C变量存储位置</a></h1>
+    <h1 class="title"><a href="/2021/11/02/关于C变量存储位置/">关于C变量存储位置</a></h1>
   
 
   </header>
@@ -207,7 +207,7 @@
 <p><code>extern</code>变量会被标注成<code>UNDEF</code>, 未使用的<code>extern</code>变量会被优化掉，不会出现在目标文件中</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 取消externVar = externConstVar;的注释</span></span><br><span class="line"><span class="comment"># 使用gcc -c var.c -o var.o只编译不链接</span></span><br><span class="line"></span><br><span class="line">$ eu-nm var.o                       </span><br><span class="line">Symbols from var.o:</span><br><span class="line"></span><br><span class="line">Name                      Value            Class  Type     Size             Line Section</span><br><span class="line"></span><br><span class="line">constGlobalVar           |0000000000000000|GLOBAL|OBJECT  |0000000000000004|    |.rodata</span><br><span class="line">externConstVar           ||GLOBAL|NOTYPE  ||    |UNDEF</span><br><span class="line">externVar                ||GLOBAL|NOTYPE  ||    |UNDEF</span><br><span class="line">globalVar                |0000000000000000|GLOBAL|OBJECT  |0000000000000004|    |.data</span><br><span class="line">main                     |0000000000000000|GLOBAL|FUNC    |0000000000000053|    |.text</span><br><span class="line">staticConstGlobalVar     |0000000000000004|LOCAL |OBJECT  |0000000000000004|    |.rodata</span><br><span class="line">staticGlobalUninitVar    |0000000000000000|LOCAL |OBJECT  |0000000000000004|    |.bss</span><br><span class="line">staticGlobalVar          |0000000000000004|LOCAL |OBJECT  |0000000000000004|    |.data</span><br><span class="line">staticLocalUninitVar.1970|0000000000000004|LOCAL |OBJECT  |0000000000000004|    |.bss</span><br><span class="line">staticLocalVar.1969      |0000000000000008|LOCAL |OBJECT  |0000000000000004|    |.data</span><br><span class="line">var.c                    |0000000000000000|LOCAL |FILE    |0000000000000000|    |ABS</span><br></pre></td></tr></table></figure>
 
-<h2 id="判断方式"><a href="#判断方式" class="headerlink" title="判断方式"></a>判断方式</h2><p><img src="/2021/11/03/%E5%85%B3%E4%BA%8EC%E5%8F%98%E9%87%8F%E5%AD%98%E5%82%A8%E4%BD%8D%E7%BD%AE/var.svg"></p>
+<h2 id="判断方式"><a href="#判断方式" class="headerlink" title="判断方式"></a>判断方式</h2><p><img src="/2021/11/02/%E5%85%B3%E4%BA%8EC%E5%8F%98%E9%87%8F%E5%AD%98%E5%82%A8%E4%BD%8D%E7%BD%AE/var.svg"></p>
 
     
   </div>

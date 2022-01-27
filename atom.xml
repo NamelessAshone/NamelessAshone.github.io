@@ -39,10 +39,10 @@
   
   <entry>
     <title>关于C变量存储位置</title>
-    <link href="https://blog.codesouls.top/2021/11/03/%E5%85%B3%E4%BA%8EC%E5%8F%98%E9%87%8F%E5%AD%98%E5%82%A8%E4%BD%8D%E7%BD%AE/"/>
-    <id>https://blog.codesouls.top/2021/11/03/%E5%85%B3%E4%BA%8EC%E5%8F%98%E9%87%8F%E5%AD%98%E5%82%A8%E4%BD%8D%E7%BD%AE/</id>
-    <published>2021-11-03T13:10:56.383Z</published>
-    <updated>2021-11-04T07:07:54.394Z</updated>
+    <link href="https://blog.codesouls.top/2021/11/02/%E5%85%B3%E4%BA%8EC%E5%8F%98%E9%87%8F%E5%AD%98%E5%82%A8%E4%BD%8D%E7%BD%AE/"/>
+    <id>https://blog.codesouls.top/2021/11/02/%E5%85%B3%E4%BA%8EC%E5%8F%98%E9%87%8F%E5%AD%98%E5%82%A8%E4%BD%8D%E7%BD%AE/</id>
+    <published>2021-11-02T14:46:00.000Z</published>
+    <updated>2022-01-27T07:29:25.129Z</updated>
     
     
       
@@ -56,7 +56,7 @@
     
     
     
-    <category term="C语言" scheme="https://blog.codesouls.top/tags/C%E8%AF%AD%E8%A8%80/"/>
+    <category term="C/CPP" scheme="https://blog.codesouls.top/tags/C-CPP/"/>
     
   </entry>
   
@@ -88,7 +88,7 @@
     <link href="https://blog.codesouls.top/2021/04/06/%E4%BD%BF%E7%94%A8ltrace%E8%B7%9F%E8%B8%AA%E8%BF%9B%E7%A8%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/"/>
     <id>https://blog.codesouls.top/2021/04/06/%E4%BD%BF%E7%94%A8ltrace%E8%B7%9F%E8%B8%AA%E8%BF%9B%E7%A8%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/</id>
     <published>2021-04-05T16:01:09.000Z</published>
-    <updated>2021-06-07T02:53:03.117Z</updated>
+    <updated>2022-01-27T07:30:48.630Z</updated>
     
     
       
